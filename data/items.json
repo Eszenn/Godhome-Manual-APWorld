@@ -271,12 +271,6 @@
 	},
 	{
 		"count":1,
-		"name": "Lifeblood Cocoon",
-		"category": ["Equipment"],
-		"useful": true
-	},
-	{
-		"count":1,
 		"name": "Gruz Mother Statue",
 		"category": ["Statues"],
 		"progression": true
