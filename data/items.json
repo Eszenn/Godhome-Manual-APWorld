@@ -1,0 +1,572 @@
+[
+	{
+		"count":1,
+		"name": "Wayward Compass",
+		"category": ["Charms"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Gathering Swarm",
+		"category": ["Charms"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Stalwart Shell",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Soul Catcher",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Shaman Stone",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Soul Eater",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Dashmaster",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sprintmaster",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grubsong",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grubberfly's Elegy",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Unbreakable Heart",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Unbreakable Greed",
+		"category": ["Charms"],
+		"filler": true
+	},
+	{
+		"count":1,
+		"name": "Unbreakable Strength",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Spell Twister",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Steady Body",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Heavy Blow",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Quick Slash",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Longnail",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Mark of Pride",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Fury of the Fallen",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Thorns of Agony",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Baldur's Shell",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Flukenest",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Defender's Crest",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Glowing Womb",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Quick Focus",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Deep Focus",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lifeblood Heart",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Lifeblood Core",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Joni's Blessing",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Hiveblood",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Sharp Shadow",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Shape of Unn",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Nailmaster's Glory",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Weaversong",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dream Wielder",
+		"category": ["Charms", "Good Charms"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Dreamshield",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Grimmchild",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Spore Shroom",
+		"category": ["Charms"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pantheon of the Master",
+		"category": ["Pantheons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pantheon of the Artist",
+		"category": ["Pantheons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pantheon of the Sage",
+		"category": ["Pantheons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pantheon of the Knight",
+		"category": ["Pantheons"],
+		"progression": true
+	},
+	{
+		"count":4,
+		"name": "Pantheon of Hallownest Fragment",
+		"category": ["Pantheons"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Pantheon of Hallownest",
+		"category": ["Pantheons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lifeblood Cocoon",
+		"category": ["Equipment"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Gruz Mother Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vengefly King Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Brooding Mawlek Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "False Knight Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Failed Champion Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hornet Protector Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Hornet Sentinel Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Massive Moss Charger Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flukemarm Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mantis Lords Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Sisters of Battle Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Oblobble Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hive Knight Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Broken Vessel Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Lost Kin Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nosk Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Winged Nosk Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Collector Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "God Tamer Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crystal Guardian Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Enraged Guardian Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Uumuu Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Traitor Lord Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grey Prince Zote Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Soul Warrior Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Soul Master Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Soul Tyrant Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dung Defender Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "White Defender Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Watcher Knight Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "No Eyes Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marmu Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Xero Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Markoth Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Galien Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Gorb Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Elder Hu Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Oro and Mato Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Paintmaster Sheo Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nailsage Sly Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pure Vessel Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Troupe Master Grimm Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Nightmare King Grimm Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Radiance Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nail Binding",
+		"category": ["Bindings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shell Binding",
+		"category": ["Bindings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Charm Binding",
+		"category": ["Bindings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Soul Binding",
+		"category": ["Bindings"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Game Completion",
+		"category": [],
+		"progression": true
+	}
+]

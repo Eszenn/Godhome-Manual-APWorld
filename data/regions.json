@@ -1,0 +1,31 @@
+{
+	"Godhome": 	{
+		"starting": true,
+		"connects_to": ["Pantheon of the Master","Pantheon of the Artist","Pantheon of the Sage","Pantheon of the Knight","Pantheon of Hallownest","Hall of Gods"],
+		"requires": []
+	},
+	"Pantheon of the Master": 	{
+		"connects_to": ["Godhome"],
+		"requires": "|Pantheon of the Master|"
+	},
+	"Pantheon of the Artist": 	{
+		"connects_to": ["Godhome"],
+		"requires": "|Pantheon of the Artist| AND |@Good Charms:2|"
+	},
+	"Pantheon of the Sage": 	{
+		"connects_to": ["Godhome"],
+		"requires": "|Pantheon of the Sage| AND |@Good Charms:4|"
+	},
+	"Pantheon of the Knight": 	{
+		"connects_to": ["Godhome"],
+		"requires": "|Pantheon of the Knight| AND |@Good Charms:6|"
+	},
+	"Pantheon of Hallownest": 	{
+		"connects_to": ["Godhome"],
+		"requires": "(|Pantheon of Hallownest Fragment:4| OR |Pantheon of Hallownest|) AND |@Good Charms:8|"
+	},
+	"Hall of Gods": 	{
+		"connects_to": ["Godhome"],
+		"requires": []
+}
+}

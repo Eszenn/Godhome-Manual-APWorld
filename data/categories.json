@@ -1,0 +1,19 @@
+{
+    "Bindings": {
+        "yaml_option": ["include_bindings"],
+        "hidden": true
+    },
+    "Attuned": {
+        "hidden": true
+    },
+    "Ascended": {
+        "hidden": true
+    },
+    "Radiant": {
+        "yaml_option": ["include_radiant_difficulty"],
+        "hidden": true
+    },
+    "Good Charms": {
+        "hidden": true
+    }
+}

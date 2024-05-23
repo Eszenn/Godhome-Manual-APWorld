@@ -1,0 +1,11 @@
+{
+	"game": "Godhome",
+	"creator": "Eszenn",
+	"filler_item_name": "The Urge to Keep Fighting",
+
+	"starting_items": [
+		{
+			"items": ["Gruz Mother Statue", "Brooding Mawlek Statue", "False Knight Statue"]
+		}
+	]
+}
