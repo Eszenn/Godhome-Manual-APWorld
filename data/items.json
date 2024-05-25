@@ -271,6 +271,12 @@
 	},
 	{
 		"count":1,
+		"name": "Lifeblood Cocoon",
+		"category": ["Equipment"],
+		"useful": true
+	},
+	{
+		"count":1,
 		"name": "Gruz Mother Statue",
 		"category": ["Statues"],
 		"progression": true
@@ -530,6 +536,12 @@
 	{
 		"count":1,
 		"name": "Radiance Statue",
+		"category": ["Statues"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zote the Mighty Statue",
 		"category": ["Statues"],
 		"progression": true
 	},
