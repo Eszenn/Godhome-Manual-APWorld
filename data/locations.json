@@ -912,6 +912,12 @@
 		"requires": []
 	},
 	{
+		"name": "Defeat 57 Zotelings in the Eternal Ordeal",
+		"region": "Hall of Gods",
+		"category": ["The Eternal Ordeal"],
+		"requires": "|Zote the Mighty Statue|"
+	},
+	{
 		"name": "Defeat 11 Bosses in the Hall of Gods",
 		"region": "Hall of Gods",
 		"category": ["--- Goal ---"],
