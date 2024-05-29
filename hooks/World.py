@@ -41,7 +41,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove = []  # List of location names
 
     # Add your code here to calculate which locations to remove
-    if get_option_value(multiworld, player, "goal") == 0:
+    if get_option_value(multiworld, player, "victory_condition") == 0:
         goal_location_name = "Ascend the Pantheon of Hallownest"
 
         for location_name in world.location_name_groups["Pantheon of Hallownest"]:
@@ -80,7 +80,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
-    if get_option_value(multiworld, player, "goal") == 0:
+    if get_option_value(multiworld, player, "victory_condition") == 0:
         itemNamesToRemove.append("Pantheon of Hallownest")
         goal_location = multiworld.get_location("Ascend the Pantheon of Hallownest", player)
 
