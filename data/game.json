@@ -7,5 +7,6 @@
 		{
 			"items": ["Gruz Mother Statue", "Brooding Mawlek Statue", "False Knight Statue"]
 		}
-	]
+	],
+	"death_link": true
 }
