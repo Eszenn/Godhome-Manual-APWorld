@@ -25,7 +25,6 @@ from ..Helpers import is_option_enabled, get_option_value
 
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
-
 class VictoryCondition(Choice):
     """
     The goal that must be achieved in order to mark your world as completed.
@@ -36,6 +35,7 @@ class VictoryCondition(Choice):
     option_pantheon_5 = 0
     option_boss_rush = 1
     default = 0
+
 
 class NumOfBosses(Range):
     """
@@ -48,10 +48,19 @@ class NumOfBosses(Range):
     default = 33
 
 
+class includeP5(Toggle):
+    """
+    Whether to exclude locations related to the Pantheon of Hallownest.
+    Ignored if goal is Pantheon 5.
+    """
+    display_name = "exclude_p5"
+
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["victory_condition"] = VictoryCondition
     options["number_of_bosses"] = NumOfBosses
+    options["exclude_p5"] = includeP5
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
