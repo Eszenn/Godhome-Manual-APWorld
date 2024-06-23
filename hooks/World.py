@@ -88,6 +88,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         goal_location = multiworld.get_location("Ascend the Pantheon of Hallownest", player)
 
     else:
+        if get_option_value(multiworld, player, "exclude_p5"):
+            itemNamesToRemove.append("Pantheon of Hallownest")
+
         for i in range(4):
             itemNamesToRemove.append("Pantheon of Hallownest Fragment")
 
