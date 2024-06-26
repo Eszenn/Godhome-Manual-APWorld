@@ -294,6 +294,24 @@
 		"requires": "|Massive Moss Charger Statue| AND |@Good Charms:6|"
 	},
 	{
+		"name": "Flukemarm - Defeat on Attuned Difficulty",
+		"region": "Hall of Gods",
+		"category": ["Flukemarm", "Attuned"],
+		"requires": "|Flukemarm Statue|"
+	},
+	{
+		"name": "Flukemarm - Defeat on Ascended Difficulty",
+		"region": "Hall of Gods",
+		"category": ["Flukemarm", "Ascended"],
+		"requires": "|Flukemarm Statue|"
+	},
+	{
+		"name": "Flukemarm - Defeat on Radiant Difficulty",
+		"region": "Hall of Gods",
+		"category": ["Flukemarm", "Radiant"],
+		"requires": "|Flukemarm Statue| AND |@Good Charms:6|"
+	},
+	{
 		"name": "Mantis Lords - Defeat on Attuned Difficulty",
 		"region": "Hall of Gods",
 		"category": ["Mantis Lords","Attuned"],
@@ -454,6 +472,24 @@
 		"region": "Hall of Gods",
 		"category": ["The Collector","Radiant"],
 		"requires": "|The Collector Statue| AND |@Good Charms:6|"
+	},
+	{
+		"name": "God Tamer - Defeat on Attuned Difficulty",
+		"region": "Hall of Gods",
+		"category": ["God Tamer", "Attuned"],
+		"requires": "|God Tamer Statue|"
+	},
+	{
+		"name": "God Tamer - Defeat on Ascended Difficulty",
+		"region": "Hall of Gods",
+		"category": ["God Tamer", "Ascended"],
+		"requires": "|God Tamer Statue|"
+	},
+	{
+		"name": "God Tamer - Defeat on Radiant Difficulty",
+		"region": "Hall of Gods",
+		"category": ["God Tamer", "Radiant"],
+		"requires": "|God Tamer Statue| AND |@Good Charms:6|" 
 	},
 	{
 		"name": "Crystal Guardian - Defeat on Attuned Difficulty",
@@ -906,16 +942,16 @@
 		"requires": "|Radiance Statue| AND |@Good Charms:6|"
 	},
 	{
-		"name": "Ascend the Pantheon of Hallownest",
-		"region": "Pantheon of Hallownest",
-		"category": ["--- Goal ---"],
-		"requires": []
-	},
-	{
 		"name": "Defeat 57 Zotelings in the Eternal Ordeal",
 		"region": "Hall of Gods",
 		"category": ["The Eternal Ordeal"],
 		"requires": "|Zote the Mighty Statue|"
+	},
+	{
+		"name": "Ascend the Pantheon of Hallownest",
+		"region": "Pantheon of Hallownest",
+		"category": ["--- Goal ---"],
+		"requires": []
 	},
 	{
 		"name": "Defeat 11 Bosses in the Hall of Gods",
