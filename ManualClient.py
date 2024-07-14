@@ -11,6 +11,7 @@ import ModuleUpdate
 ModuleUpdate.update()
 
 import Utils
+from kivy.metrics import dp
 
 if __name__ == "__main__":
     Utils.init_logging("ManualClient", exception_logger="Client")
@@ -233,12 +234,12 @@ class ManualContext(SuperContext):
             def build(self) -> Layout:
                 super().build()
 
-                self.manual_game_layout = BoxLayout(orientation="horizontal", size_hint_y=None, height=30)
+                self.manual_game_layout = BoxLayout(orientation="horizontal", size_hint_y=None, height=dp(30))
 
-                game_bar_label = Label(text="Manual Game ID", size=(150, 30), size_hint_y=None, size_hint_x=None)
+                game_bar_label = Label(text="Manual Game ID", size=(dp(150), dp(30)), size_hint_y=None, size_hint_x=None)
                 self.manual_game_layout.add_widget(game_bar_label)
                 self.game_bar_text = TextInput(text=self.ctx.suggested_game,
-                                                size_hint_y=None, height=30, multiline=False, write_tab=False)
+                                                size_hint_y=None, height=dp(30), multiline=False, write_tab=False)
                 self.manual_game_layout.add_widget(self.game_bar_text)
 
                 self.grid.add_widget(self.manual_game_layout, 3)
@@ -306,6 +307,7 @@ class ManualContext(SuperContext):
                     if hint["finding_player"] == self.ctx.slot:
                         if hint["location"] in self.ctx.missing_locations:
                             location = self.ctx.get_location_by_id(hint["location"])
+                            location["category"] = location.get("category", [])
                             if "(Hinted)" not in location["category"]:
                                 location["category"].append("(Hinted)")
                                 rebuild = True
