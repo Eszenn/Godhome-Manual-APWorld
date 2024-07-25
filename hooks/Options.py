@@ -34,6 +34,7 @@ class VictoryCondition(Choice):
     display_name = "Goal"
     option_pantheon_5 = 0
     option_boss_rush = 1
+    option_absolute_radiance = 2
     default = 0
 
 
