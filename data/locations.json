@@ -954,6 +954,12 @@
 		"requires": []
 	},
 	{
+		"name": "Defeat Absolute Radiance within the Hall of Gods",
+		"region": "Hall of Gods",
+		"category": ["--- Goal ---"],
+		"requires": "|@Dreamers:3| AND |Void Heart|"
+	},
+	{
 		"name": "Defeat 11 Bosses in the Hall of Gods",
 		"region": "Hall of Gods",
 		"category": ["--- Goal ---"],
